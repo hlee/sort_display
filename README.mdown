@@ -1,0 +1,5 @@
+This display project show 
+How to use ruby 1.9 MiniTest:spec
+and 
+It also used Rake
+
